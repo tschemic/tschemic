@@ -12,10 +12,12 @@ I am a molecular biologist by training and I'm passionate about bioinformatics a
 [![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=tschemic&exclude_repo=ThinkStats2&theme=dark)](https://github.com/tschemic)
 
 
-- 📫 You can find me on LinkedIn [![LinkedIn][1.2]][1], or on ResearchGate [![ResearchGate][2.2]][2]
+- 📫 You can find me on LinkedIn <a href="https://www.linkedin.com/in/michael-tscherner-81335265/"> <img src="https://raw.githubusercontent.com/tschemic/tschemic/main/linkedin-3-16.png" alt="LinkedIn" width="16"/> </a>, or on ResearchGate <a href="https://www.researchgate.net/profile/Michael_Tscherner/"> <img src="https://raw.githubusercontent.com/tschemic/tschemic/main/RG.png" alt="ResearchGate" width="16"/> </a>
 
-<img src="https://raw.githubusercontent.com/tschemic/tschemic/main/linkedin-3-16.png" alt="Figure 1" width="16"/>
-<img src="https://raw.githubusercontent.com/tschemic/tschemic/main/RG.png" alt="Figure 1" width="16"/>
+<a href="https://www.linkedin.com/in/michael-tscherner-81335265/"> ![LinkedIn](https://raw.githubusercontent.com/tschemic/tschemic/main/linkedin-3-16.png) </a>
+
+<a href="https://www.researchgate.net/profile/Michael_Tscherner/"> <img src="https://raw.githubusercontent.com/tschemic/tschemic/main/RG.png" alt="ResearchGate" width="16"/> </a>
+
 
 <!-- Icons -->
 
