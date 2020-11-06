@@ -12,7 +12,7 @@ I am a molecular biologist by training and I'm passionate about bioinformatics a
 [![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=tschemic&exclude_repo=ThinkStats2&theme=dark)](https://github.com/tschemic)
 
 
-- 📫 You can find me on [![LinkedIn][1.2]][1], or on [![ResearchGate][2.2]][2]
+- 📫 You can find me on LinkedIn [![LinkedIn][1.2]][1], or on ResearchGate [![ResearchGate][2.2]][2]
 
 
 <!-- Icons -->
