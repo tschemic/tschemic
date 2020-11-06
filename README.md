@@ -1,13 +1,29 @@
-### Hi there 👋
+# Hi there 👋
 
 I am a molecular biologist by training and I'm passionate about bioinformatics and data analysis. In my projects I mainly use R and a little bit of Python and Bash. The repositories here can be used to analyze next generation sequencing data coming from Illumina short-read sequencing.
 
-Have fun!!!
+
+*Have fun!!!*
+
+
+## Stats
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=tschemic&hide=issues,contribs&show_icons=true&theme=dark)](https://github.com/tschemic)
 [![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=tschemic&exclude_repo=ThinkStats2&theme=dark)](https://github.com/tschemic)
 
-- 📫 How to reach me:
+
+- 📫 You can find me on [![LinkedIn][1.2]][1], or on [![ResearchGate][2.2]][2]
+
+
+<!-- Icons -->
+
+[1.2]: https://raw.githubusercontent.com/tschemic/tschemic/master/LI.png (LinkedIn icon)
+[2.2]: https://raw.githubusercontent.com/tschemic/tschemic/master/RG.png (ResearchGate icon)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/michael-tscherner-81335265/
+[2]: https://www.researchgate.net/profile/Michael_Tscherner/
 
 
 
