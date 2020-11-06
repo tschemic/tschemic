@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/tschemic/tschemic/main/linkedin-3-16.png "Header")]
+![Header](https://raw.githubusercontent.com/tschemic/tschemic/main/Github_Profile_Logo.png "Header")
 
 
 # Hi there 👋
