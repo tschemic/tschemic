@@ -14,6 +14,8 @@ I am a molecular biologist by training and I'm passionate about bioinformatics a
 
 - 📫 You can find me on LinkedIn [![LinkedIn][1.2]][1], or on ResearchGate [![ResearchGate][2.2]][2]
 
+<img src="https://raw.githubusercontent.com/tschemic/tschemic/main/linkedin-3-16.png" alt="Figure 1" width="16"/>
+<img src="https://raw.githubusercontent.com/tschemic/tschemic/main/RG.png" alt="Figure 1" width="16"/>
 
 <!-- Icons -->
 
