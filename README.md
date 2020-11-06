@@ -1,3 +1,6 @@
+[![Header](https://raw.githubusercontent.com/tschemic/tschemic/main/linkedin-3-16.png "Header")]
+
+
 # Hi there 👋
 
 I am a molecular biologist by training and I'm passionate about bioinformatics and data analysis. In my projects I mainly use R and a little bit of Python and Bash. The repositories here can be used to analyze next generation sequencing data coming from Illumina short-read sequencing.
