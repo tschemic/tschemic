@@ -17,8 +17,8 @@ I am a molecular biologist by training and I'm passionate about bioinformatics a
 
 <!-- Icons -->
 
-[1.2]: https://raw.githubusercontent.com/tschemic/tschemic/master/LI.png (LinkedIn icon)
-[2.2]: https://raw.githubusercontent.com/tschemic/tschemic/master/RG.png (ResearchGate icon)
+[1.2]: https://raw.githubusercontent.com/tschemic/tschemic/LI.png (LinkedIn icon)
+[2.2]: https://raw.githubusercontent.com/tschemic/tschemic/RG.png (ResearchGate icon)
 
 <!-- Links to your social media accounts -->
 
