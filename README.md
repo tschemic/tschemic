@@ -14,22 +14,6 @@ I am a molecular biologist by training and I'm passionate about bioinformatics a
 
 - 📫 You can find me on LinkedIn <a href="https://www.linkedin.com/in/michael-tscherner-81335265/"> <img src="https://raw.githubusercontent.com/tschemic/tschemic/main/linkedin-3-16.png" alt="LinkedIn" width="16"/> </a>, or on ResearchGate <a href="https://www.researchgate.net/profile/Michael_Tscherner/"> <img src="https://raw.githubusercontent.com/tschemic/tschemic/main/RG.png" alt="ResearchGate" width="16"/> </a>
 
-<a href="https://www.linkedin.com/in/michael-tscherner-81335265/"> ![LinkedIn](https://raw.githubusercontent.com/tschemic/tschemic/main/linkedin-3-16.png) </a>
-
-<a href="https://www.researchgate.net/profile/Michael_Tscherner/"> <img src="https://raw.githubusercontent.com/tschemic/tschemic/main/RG.png" alt="ResearchGate" width="16"/> </a>
-
-
-<!-- Icons -->
-
-[1.2]: https://raw.githubusercontent.com/tschemic/tschemic/main/linkedin-3-16.png (LinkedIn icon)
-[2.2]: https://raw.githubusercontent.com/tschemic/tschemic/main/RG2.png (ResearchGate icon)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://www.linkedin.com/in/michael-tscherner-81335265/
-[2]: https://www.researchgate.net/profile/Michael_Tscherner/
-
-
 
 <!--
 **tschemic/tschemic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
