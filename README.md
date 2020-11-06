@@ -4,6 +4,9 @@ I am a molecular biologist by training and I'm passionate about bioinformatics a
 
 Have fun!!!
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=tschemic&hide=issues,contribs&show_icons=true&theme=dark)](https://github.com/tschemic)
+[![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=tschemic&exclude_repo=ThinkStats2&theme=dark)](https://github.com/tschemic)
+
 - 📫 How to reach me:
 
 
