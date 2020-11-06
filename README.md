@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a molecular biologist by training and I'm passionate about bioinformatics and data analysis. In my projects I mainly use R and a little bit of Python and Bash. The repositories here can be used to analyze next generation sequencing data coming from Illumina short-read sequencing.
+
+Have fun!!!
+
+- 📫 How to reach me:
+
+
+
 <!--
 **tschemic/tschemic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
