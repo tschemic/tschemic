@@ -10,6 +10,9 @@ I am a molecular biologist by training and I'm passionate about bioinformatics a
 <br/>
 
 
+- 📫 You can find me on LinkedIn <a href="https://www.linkedin.com/in/michael-tscherner-81335265/"> <img src="https://raw.githubusercontent.com/tschemic/tschemic/main/linkedin-3-16.png" alt="LinkedIn" width="16"/> </a>, or on ResearchGate <a href="https://www.researchgate.net/profile/Michael_Tscherner/"> <img src="https://raw.githubusercontent.com/tschemic/tschemic/main/RG.png" alt="ResearchGate" width="16"/> </a>
+
+
 
 ## Stats
 
